@@ -1,3 +1,5 @@
 This data will go into remote branch
 
 Save this line till .git 
+save data till statging area
+this change is in working directory 
