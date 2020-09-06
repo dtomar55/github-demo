@@ -5,3 +5,4 @@ adding second line
 adding a
 adding b
 only added for master
+directly added fom remote
