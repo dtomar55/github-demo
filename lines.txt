@@ -3,3 +3,4 @@ my first line
 adding second line
 
 adding a
+adding b
